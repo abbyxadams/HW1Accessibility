@@ -11,13 +11,13 @@ https://github.com/abbyxadams/HW1Accessibility/issues/1#issue-713498472
 Link to deployed page here: 
 
 
-
+abbyxadams.github.io/hw1accessibility/index.html
 
 
 
 Further Description:
 
-This is the website of a digitla marketing agency. 
+This is the website of a digital marketing agency. 
 
 My job was to refactor the code to meet accessibility standards and by doing so, also better position the page in search engines, like Google.
 
