@@ -4,7 +4,7 @@
     margin: 0;
 }
 
-
+/* This is how you make a comment in css*/
 
 body {
     background-color: #d9dcd6;
@@ -94,6 +94,10 @@ p {
 }
 
 
+/*note that all of these are classes with the . extension*/
+
+
+
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -139,6 +143,10 @@ p {
     text-align: center;
 }
 
+
+
+/*I simplified the css by taking element selectors that had the same description */
+ 
 .footer h2 {
     font-size: 20px;
 }
